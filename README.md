@@ -8,9 +8,9 @@ Batch files : rebuild_workflow.py *.png
 
 Multiple Files : rebuild_workflow.py image1.png image2.png
 
-Specific Folder with Wildcard : rebuild_workflow.py "C:\images\*.png"
+Specific Folder with Wildcard : rebuild_workflow.py "C:\images\\*.png"
 
-Mixed Input : rebuild_workflow.py  image1.png "C:\images\*.png" image2.png
+Mixed Input : rebuild_workflow.py  image1.png "C:\images\\*.png" image2.png
 
 
 
